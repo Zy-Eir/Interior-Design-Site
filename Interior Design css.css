@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Unna', serif;
+    
+}
+
+
+
+.navbar-brand{
+    color: rgb(255, 255, 240);
+
+}
+
+
+.navbar-brand:hover{
+    color: black;
+    
+}
+
+
+.nav-link{
+    color: rgb(255, 255, 240);
+    font-size: 1.23rem;
+
+}
+
+
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+
+}
+
+
+
+
+.p-border{
+    border-top: solid .5px;
+    border-bottom: solid .5px;
+    border-color: black;
+}
+
+.card-img-overlay{
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.section-1{
+    background:  rgb(96,130,106);
+    color: rgb(255, 255, 240);
+
+
+}
+
+
+.d-flex{
+    flex-direction: column;
+}
+
+.section-2{
+    background:  rgb(96,130,106);
+    
+    
+}
+
+
+
+
+.card-glyphs{
+    font-size: 2.3rem;
+
+}
+
+
+.big{
+    font-size: 2rem;
+    color: white;
+}
+
+.outline:focus{
+    outline: none;
+    box-shadow: none;
+}
+.menu-background{
+    background: rgb(164,188,170);
+}
+
+
+.color{
+    color: white;
+}
+

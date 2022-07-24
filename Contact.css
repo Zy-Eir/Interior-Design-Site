@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: rgb(164,188,170);
+    font-family: 'Unna', serif;
+}
+
+
+
+.navbar-brand{
+    color: rgb(255, 255, 240);
+
+}
+
+
+.navbar-brand:hover{
+    color: black;
+    
+}
+
+
+.nav-link{
+    color: rgb(255, 255, 240);
+    font-size: 1.23rem;
+
+}
+
+
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+
+}
+
+
+
+
+.big{
+    font-size: 6.8rem;
+}
+
+
+.btn{
+    background-color: black;
+    transition: background-color .75s;
+    color: white;
+}
+
+.btn:hover{
+    background-color: lightcoral;
+    transition: background-color .75s;
+    color: white;
+}
+
+.bg-fm{
+    background: rgb(58,74,64);
+    transition: background-color .75s;
+    color: white;
+}
+
+.home{
+    align-items: center;
+}

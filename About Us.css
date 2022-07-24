@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: rgb(160,165,146);
+    color: white;
+    font-family: 'Unna', serif;
+}
+
+
+
+.navbar-brand{
+    color: white;
+
+}
+
+
+.navbar-brand:hover{
+    color: white;
+
+}
+
+
+.nav-link{
+    color: white;
+    font-size: 1.23rem;
+
+}
+
+
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+
+}
+
+
+.small{
+    position: absolute;
+    z-index: 2;
+    left: 30rem;
+}
+
+.big{
+    font-size: 2rem;
+    color: white;
+}
+
+.outline:focus{
+    outline: none;
+    box-shadow: none;
+}
+.menu-background{
+    background: rgb(164,188,170);
+}
